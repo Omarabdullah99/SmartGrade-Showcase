@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="grid md:grid-cols-2 items-center w-10/12 mx-auto">
             <img
                 className="md:order-2 object-cover ml-auto animate-updown"
-                src="../../src/assets/hero-graphics.svg"
+                src="hero-graphics.svg"
                 width="500px"
                 height="500px"
                 alt="Banner"
