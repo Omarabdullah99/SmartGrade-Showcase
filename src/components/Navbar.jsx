@@ -1,6 +1,4 @@
 
-
-import '../App.css'
 export default function Navbar() {
     
   return (
@@ -12,7 +10,7 @@ export default function Navbar() {
         <a href="/">
             <img
                 className="h-[40px]"
-                src="../../src/assets/lws-logo-en.svg"
+                src="lws-logo-en.svg"
                 alt="Lws"
             />
         </a>
